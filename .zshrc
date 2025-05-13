@@ -105,6 +105,10 @@ alias zshconfig="subl ~/.zshrc"
 alias zprofile="subl ~/.zprofile"
 alias ohmyzsh="subl ~/.oh-my-zsh"
 
+alias sshconfig="subl ~/.ssh/config"
+alias awsconfig="subl ~/.aws/config"
+alias awscreds="subl ~/.aws/credentials"
+
 alias pstorm="open -na \"Phpstorm.app\" --args \"$@\""
 
 alias gcm="git commit -m"
