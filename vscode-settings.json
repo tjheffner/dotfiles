@@ -1,0 +1,11 @@
+{
+    "workbench.colorTheme": "Solarized Dark",
+    "telemetry.feedback.enabled": false,
+    "telemetry.telemetryLevel": "off",
+    "files.autoSave": "onFocusChange",
+    "workbench.editor.wrapTabs": true,
+    "workbench.commandPalette.experimental.enableNaturalLanguageSearch": false,
+    "workbench.enableExperiments": false,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true
+}
