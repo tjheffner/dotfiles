@@ -113,8 +113,7 @@ alias pstorm="open -na \"Phpstorm.app\" --args \"$@\""
 
 alias gcm="git commit -m"
 alias gco="git checkout"
-
-
+alias gst="git status"
 
 # changes user@hostname in prompt line to just user
 # only needed if work MDM (kandji etc) doesn't let you change hostname
